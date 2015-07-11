@@ -1,1 +1,2 @@
 this is the conflicted file
+new line by Adi An Fadzil
